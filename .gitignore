@@ -1,0 +1,6 @@
+ # Folders to ignore  
+.svn  
+.CVS  
+.idea  
+node_modules/  
+.vscode/
